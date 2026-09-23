@@ -1,1 +1,0 @@
-importScripts('https://www.gstatic.com/recaptcha/releases/ox8dsmiqR62P1bqhciWOn7Fg/recaptcha__en.js');
